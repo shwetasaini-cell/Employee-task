@@ -1,0 +1,8 @@
+.et-wrap { max-width: 1100px; }
+.et-card { background:#fff; padding:16px; border-radius:12px; box-shadow:0 4px 14px rgba(0,0,0,.06); margin-top:16px; }
+.et-alert { padding:12px 14px; border-radius:10px; margin:12px 0; }
+.et-alert--success{ background:#e6ffed; border:1px solid #b6f3c2; }
+.et-alert--error{ background:#ffecec; border:1px solid #ffbcbc; }
+.et-task-form input[type="text"], .et-task-form textarea, .et-task-form select { width: 100%; max-width:560px; }
+.et-btn { display:inline-block; padding:8px 14px; border-radius:10px; text-decoration:none; border:1px solid #ddd; }
+.et-btn--primary { background:#2271b1; color:#fff; border-color:#2271b1; }
